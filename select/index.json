@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "君じゃなきゃダメみたい (2026)",
+  "base_artist": "オーイシマサヨシ",
+  "createdAt": "2026-03-22T17:47:20.873204Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "Masayoshi Ohishi",
+      "has_synced": true,
+      "path": "select/01_君じゃなきゃダメみたい_Masayoshi_Ohishi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい - OxT ver.",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/02_君じゃなきゃダメみたい_-_OxT_ver._OxT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "Masayoshi Ohishi",
+      "has_synced": true,
+      "path": "select/03_君じゃなきゃダメみたい_Masayoshi_Ohishi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "Masayoshi Oishi",
+      "has_synced": true,
+      "path": "select/04_君じゃなきゃダメみたい_Masayoshi_Oishi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい - Kimijyanakya Damemitai",
+      "artist": "Ohishi Masayoshi",
+      "has_synced": true,
+      "path": "select/05_君じゃなきゃダメみたい_-_Kimijyanakya_Damemitai_Ohishi_Masayoshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい -OxT ver.-",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/06_君じゃなきゃダメみたい_-OxT_ver.-_OxT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "大石昌良",
+      "has_synced": true,
+      "path": "select/07_君じゃなきゃダメみたい_大石昌良.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "Masayoshi Ōishi",
+      "has_synced": true,
+      "path": "select/08_君じゃなきゃダメみたい_Masayoshi_Ōishi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい(off vocal)",
+      "artist": "Masayoshi Ōishi",
+      "has_synced": true,
+      "path": "select/09_君じゃなきゃダメみたい(off_vocal)_Masayoshi_Ōishi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "オーイシマサヨシ",
+      "has_synced": true,
+      "path": "select/10_君じゃなきゃダメみたい_オーイシマサヨシ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい(instrumental)",
+      "artist": "大石昌良",
+      "has_synced": true,
+      "path": "select/11_君じゃなきゃダメみたい(instrumental)_大石昌良.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kimi Ja Nakya Dame Mitai 君じゃなきゃダメみたい",
+      "artist": "MK feat. LTT",
+      "has_synced": false,
+      "path": "select/12_Kimi_Ja_Nakya_Dame_Mitai_君じゃなきゃダメみたい_MK_feat._LTT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君じゃなきゃダメみたい - From THE FIRST TAKE",
+      "artist": "大石昌良",
+      "has_synced": false,
+      "path": "select/13_君じゃなきゃダメみたい_-_From_THE_FIRST_TAKE_大石昌良.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "オーイシマサヨシ",
+      "has_synced": false,
+      "path": "select/pl_01_君じゃなきゃダメみたい_オーイシマサヨシ.txt"
+    }
+  ]
+}
